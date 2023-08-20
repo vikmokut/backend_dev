@@ -1,0 +1,5 @@
+#!/bin/bash
+
+pah=`pwd`
+
+echo $pah

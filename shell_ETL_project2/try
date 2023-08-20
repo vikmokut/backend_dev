@@ -1,0 +1,7 @@
+#! /bin/bash
+
+declare -a myArray
+
+for item in ${myArray[`ls`]}; do
+	echo $item
+done
